@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/cemtanrikut/cron-parser/cmd/cron_parser/main.go/pkg/cron"
+	"github.com/cemtanrikut/cron-parser/pkg/cron"
 )
 
 func main() {

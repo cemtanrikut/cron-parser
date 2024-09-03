@@ -1,3 +1,3 @@
-module github.com/cemtanrikut/cron-parser/cmd/cron_parser/main.go
+module github.com/cemtanrikut/cron-parser
 
 go 1.22.1
